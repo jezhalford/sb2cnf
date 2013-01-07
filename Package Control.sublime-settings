@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"DocBlockr",
+		"Goto Documentation",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
